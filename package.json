@@ -1,0 +1,8 @@
+{
+    "name": "pyscf_backend",
+    "version": "0.1.0",
+    "main": "start.sh",
+    "webpm": {
+        "type": "backend"
+    }
+}

@@ -1,0 +1,12 @@
+node_modules
+**/node_modules/**/*
+dist/
+pyscf_backend.egg-info
+coverage/
+junit.xml
+cdn.zip
+__pycache__
+*.iml
+.template
+.venv
+backends.pyscf_backend_project.iml
